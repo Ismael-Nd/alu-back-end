@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+/api/[0-9]*.csv
+/api/[0-9]*.json
+/api/todo_all_employees.json
